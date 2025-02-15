@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm ABIB AHMED 👋</h1>
 <h3 align="center">🚀 UI/UX Designer | 🎨 Frontend Developer | 💡 Creative Thinker</h3>
 
 <p align="center">
@@ -84,8 +84,7 @@
 ---
 
 ### **💡 Fun Facts**
-- 🎵 I enjoy listening to music while designing & coding!  
-- 🎮 I play video games in my free time.  
+- 🎵 I enjoy listening to music while designing & coding!    
 - 🏆 I love challenges that push my creativity!  
 
 ---
