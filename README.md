@@ -2,7 +2,7 @@
 <h3 align="center">🚀 UI/UX Designer | 🎨 Frontend Developer | 💡 Creative Thinker</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/FPzKXxV.png" alt="Profile Banner" width="100%">
+  <img src="assets/IMG_20250215_211520.jpg" alt="Profile Banner" width="100%">
 </p>
 
 <p align="center">
