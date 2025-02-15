@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/xabiiib0790?t=edw756cxBP9Qd7W_nfU_TQ&s=03" target="_blank">
-    <img src="assets/twitter.svg"/>
+    <img src="[assets/twitter.svg](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter)"/>
   </a>
   <a href="Abib:xabiiib0790@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
