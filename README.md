@@ -43,9 +43,9 @@
 
 ### **📂 Featured Projects**
 🌟 Check out some of my best work:  
-1. 🎨 **AMSTORE AND DESIGNS(#) https://github.com/fdesdsf/E-commerce** – A modern e-commerce UI with a intuitive design.  
-2. 🚀 **DiMed(#) https://github.com/fdesdsf/Hospital** – A healthcare website built with javascript.  
-3. 🔍 **RockPaperScissorgame(#)** – A user-friendly dashboard with interactive charts and analytics of an AI v a player. 
+1. 🎨 **https://github.com/fdesdsf/E-commerce** – A modern e-commerce UI with a intuitive design.  
+2. 🏥 **https://github.com/fdesdsf/Hospital** – A healthcare website built with javascript.  
+3. 🎮 **https://github.com/fdesdsf/Rock-Paper-and-Scissor-Game** – A user-friendly dashboard with interactive charts and analytics of an AI v a player. 
 
 📺 **Explore More:** [My Portfolio](#) | [Dribbble](#) | [Behance](#)
 
