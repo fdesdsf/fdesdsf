@@ -43,9 +43,9 @@
 
 ### **📂 Featured Projects**
 🌟 Check out some of my best work:  
-1. 🎨 **[Project Name](#)** – A modern e-commerce UI with a sleek and minimalistic design.  
-2. 🚀 **[Project Name](#)** – A responsive portfolio built using Next.js and Tailwind CSS.  
-3. 🔍 **[Project Name](#)** – A user-friendly dashboard with interactive charts and analytics.  
+1. 🎨 **AMSTORE AND DESIGNS(#) https://github.com/fdesdsf/E-commerce** – A modern e-commerce UI with a intuitive design.  
+2. 🚀 **DiMed(#)** – A healthcare website built with javascript.  
+
 
 📺 **Explore More:** [My Portfolio](#) | [Dribbble](#) | [Behance](#)
 
