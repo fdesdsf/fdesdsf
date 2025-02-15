@@ -38,8 +38,6 @@
 #### **🛠️ Additional Skills**
 - 📊 **UX Research & Usability Testing**
 - 🌟 **Design Systems & Component Libraries**
-- 🔎 **Version Control:** Git, GitHub, GitLab  
-- 📚 **CMS & No-Code:** Webflow, WordPress, Framer  
 
 ---
 
@@ -55,13 +53,13 @@
 
 ### **📢 Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourname" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-muhamed-5b37a5184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourname" target="_blank">
+  <a href="https://x.com/xabiiib0790?t=edw756cxBP9Qd7W_nfU_TQ&s=03" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="Abib:xabiiib0790@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -70,15 +68,15 @@
 
 ### **📊 GitHub Stats & Activity**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=fdesdsf&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdesdsf&theme=radical" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdesdsf&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
