@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm ABIB AHMED 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🎨 UI/UX Designer | 💡 Creative Problem Solver</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎨 UI/UX Designer</h3>
 
 <p align="center">
   <img src="assets/p.jpeg" alt="Profile Banner" width="50%">
@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full-Stack-blue?style=flat-square&logo=fullstack" alt="Full Stack">
+  <img src="https://img.shields.io/badge/AI/ML-Enthusiast-red?style=flat-square&logo=tensorflow" alt="AI/ML">
   <img src="https://img.shields.io/badge/UI/UX-Design-orange?style=flat-square&logo=figma" alt="UI/UX">
   <img src="https://img.shields.io/badge/Frontend-Development-yellow?style=flat-square&logo=react" alt="Frontend">
   <img src="https://img.shields.io/badge/Backend-Development-green?style=flat-square&logo=node.js" alt="Backend">
@@ -16,10 +17,11 @@
 
 ### **🌟 About Me**
 - 🚀 I'm a passionate **Full-Stack Developer** with expertise in both frontend and backend technologies.
-- 🎨 Combining **UI/UX design skills** with **full-stack development** to create complete, user-centric solutions.
-- 🖥️ I specialize in **modern web applications**, **scalable architectures**, and **responsive interfaces**.
-- 🧩 Focus on crafting **end-to-end solutions** with clean code and intuitive user experiences.
-- 🌍 Open to collaborations and challenging full-stack opportunities!
+- 🤖 **AI/ML Enthusiast** – Passionate about machine learning, neural networks, and intelligent applications.
+- 🎨 Combining **UI/UX design skills** with **full-stack development** and **AI integration** to create innovative solutions.
+- 🖥️ I specialize in **modern web applications**, **scalable architectures**, and **AI-powered interfaces**.
+- 🧩 Focus on crafting **end-to-end solutions** with clean code, intuitive UX, and intelligent features.
+- 🌍 Open to collaborations in full-stack development and AI/ML projects!
 
 ---
 
@@ -32,11 +34,18 @@
 - **Performance:** Webpack, Vite, Lighthouse Optimization
 
 #### **⚙️ Backend Development**
-- **Runtime:** Node.js, Deno
-- **Frameworks:** Express.js, NestJS, Fastify
-- **Databases:** MongoDB, PostgreSQL, MySQL, Firebase
+- **Runtime:** Node.js, Deno, Python
+- **Frameworks:** Express.js, NestJS, Fastify, Django, Flask
+- **Databases:** MongoDB, PostgreSQL, MySQL, Firebase, Redis
 - **APIs:** RESTful APIs, GraphQL, WebSocket, Server-Sent Events
 - **Authentication:** JWT, OAuth, Passport.js, Session Management
+
+#### **🤖 AI/ML & Data Science**
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Keras
+- **Data Processing:** Pandas, NumPy, Matplotlib, Seaborn
+- **Natural Language Processing:** NLTK, spaCy, Transformers
+- **Computer Vision:** OpenCV, YOLO, CNN Architectures
+- **AI Integration:** API-based AI services, Custom ML models
 
 #### **🎨 UI/UX Design**
 - **Design Tools:** Figma, Adobe XD, Sketch, Adobe Creative Suite
@@ -46,20 +55,21 @@
 
 #### **🛠️ DevOps & Tools**
 - **Version Control:** Git, GitHub, GitLab, Bitbucket
-- **CI/CD:** GitHub Actions, Jenkins, Docker
-- **Testing:** Jest, React Testing Library, Cypress, Mocha
-- **Cloud Services:** AWS, Vercel, Netlify, Heroku, DigitalOcean
-- **Package Managers:** npm, yarn, pnpm
+- **CI/CD:** GitHub Actions, Jenkins, Docker, Kubernetes
+- **Testing:** Jest, React Testing Library, Cypress, Mocha, Pytest
+- **Cloud Services:** AWS, GCP, Azure, Vercel, Netlify, Heroku
+- **Package Managers:** npm, yarn, pnpm, pip, conda
 
 ---
 
-### **📂 Featured Full-Stack Projects**
+### **📂 Featured Projects**
 🌟 Check out some of my best work:  
-1. 🛒 **https://github.com/fdesdsf/E-commerce** – Full-featured e-commerce platform with admin dashboard, payment integration, and responsive design.  
-2. 🏥 **https://github.com/fdesdsf/Hospital** – Healthcare management system with appointment scheduling, patient records, and doctor interface.  
-3. 🎮 **https://github.com/fdesdsf/Rock-Paper-and-Scissor-Game** – Interactive multiplayer game with real-time features and user authentication.  
+1. 🛒 **https://github.com/fdesdsf/E-commerce** – Full-featured e-commerce platform with recommendation system and AI-powered search.  
+2. 🏥 **https://github.com/fdesdsf/Hospital** – Healthcare management system with predictive analytics and patient monitoring features.  
+3. 🎮 **https://github.com/fdesdsf/Rock-Paper-and-Scissor-Game** – Interactive game with AI opponent using machine learning algorithms.  
+4. 🤖 **[AI Project Name]** – [Brief description of your AI/ML project] *(Add your AI project link here)*
 
-📺 **Explore More:** [My Portfolio](#) | [Live Demos](#) | [Case Studies](#)
+📺 **Explore More:** [My Portfolio](#) | [Live Demos](#) | [AI/ML Experiments](#)
 
 ---
 
@@ -83,28 +93,44 @@
   <a href="mailto:xabiiib0790@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/u/example/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <a href="https://www.kaggle.com/example" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://huggingface.co/example" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?&style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
   </a>
 </p>
 
 ---
 
 ### **💡 Fun Facts & Philosophy**
-- 🔄 **"From Design to Deployment"** – I enjoy taking projects from initial concept to production-ready applications.
-- 🎵 Music fuels my coding sessions and creative process.
-- 🏆 Passionate about solving complex problems with elegant, full-stack solutions.
-- 📚 Constantly learning new technologies and improving my craft.
+- 🤖 **AI Enthusiast** – Constantly exploring new ML models and neural network architectures
+- 🔄 **"From Design to Deployment to Intelligence"** – I enjoy building complete solutions with AI integration
+- 🎵 Music fuels my coding sessions, especially when working on complex AI algorithms
+- 🏆 Passionate about solving real-world problems with full-stack development and machine learning
+- 📚 Currently diving deep into deep learning, NLP, and AI ethics
 
 ---
 
 ### **🚀 Current Focus**
-- 🔭 Working on microservices architecture and scalable applications
-- 🌱 Learning advanced backend patterns and cloud infrastructure
-- 👯 Looking to collaborate on innovative full-stack projects
-- 💬 Ask me about JavaScript, React, Node.js, or UI/UX design
+- 🔭 Working on **AI-powered web applications** and intelligent automation systems
+- 🌱 Learning **advanced ML algorithms**, **deep learning architectures**, and **MLOps**
+- 🤝 Looking to collaborate on **AI integration projects** and **full-stack solutions with ML components**
+- 💬 Ask me about **JavaScript, React, Node.js, Python ML libraries, or AI/UX convergence**
 - 📫 How to reach me: xabiiib0790@gmail.com
+- ⚡ **AI Vision:** Exploring how machine learning can enhance user experiences and create smarter applications
 
 ---
 
-🚀 **Let's Build Amazing Full-Stack Solutions Together!** 🚀
+### **🔬 AI/ML Interests**
+- Machine Learning Model Development & Deployment
+- Neural Networks & Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision Applications
+- AI Integration in Web Applications
+- Data Analysis & Visualization
+- Ethical AI & Responsible Machine Learning
+
+---
+
+🚀 **Let's Build Intelligent Full-Stack Solutions Together!** 🚀
