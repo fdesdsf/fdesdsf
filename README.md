@@ -77,16 +77,6 @@
 
 ---
 
-### **📊 GitHub Stats & Activity**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fdesdsf&show_icons=true&theme=radical&hide=contribs&count_private=true" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdesdsf&theme=radical&hide_border=true" alt="GitHub Streak" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdesdsf&layout=compact&theme=radical&hide=contribs" alt="Top Languages" width="400">
-</p>
-
----
-
 ### **📢 Connect With Me**
 
 <p align="center">
